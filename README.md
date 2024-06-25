@@ -1,3 +1,3 @@
 # Python-ML
 
-In this repository has Machine Learning algorithms have been implemented using Python
+In this repository Machine Learning algorithms have been implemented using Python
